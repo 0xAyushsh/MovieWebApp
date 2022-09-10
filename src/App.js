@@ -17,7 +17,7 @@ const movie = {
     "Poster": "https://m.media-amazon.com/images/M/MV5BYjFhN2RjZTctMzA2Ni00NzE2LWJmYjMtNDAyYTllOTkyMmY3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg"
 }
 */
-// const title = 'spiderman';
+
 
 const App = ()=> {
 
